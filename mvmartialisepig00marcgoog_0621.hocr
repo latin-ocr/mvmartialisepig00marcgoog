@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mvmartialisepig00marcgoog/mvmartialisepig00marcgoog_0621.png"; bbox 0 0 2447 3518; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 672 908 1581 994">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 672 908 1581 994">
+     <span class='ocr_line' id='line_1_1' title="bbox 672 908 1581 994; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 672 911 1183 994; x_wconf 86' lang='lat' dir='ltr'><strong>TABULAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1251 908 1581 993; x_wconf 84' lang='lat' dir='ltr'>OCTO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 1113 1758 1372">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 1113 1758 1372">
+     <span class='ocr_line' id='line_1_2' title="bbox 490 1113 1758 1192; baseline 0 -15"><span class='ocrx_word' id='word_1_3' title='bbox 490 1114 1109 1192; x_wconf 88' lang='lat' dir='ltr'>NUMMORUM‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 1168 1113 1758 1192; x_wconf 87' lang='lat' dir='ltr'>PONDERUM,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 785 1293 1455 1372; baseline 0 -15"><span class='ocrx_word' id='word_1_5' title='bbox 785 1293 1455 1372; x_wconf 84' lang='lat' dir='ltr'>MENSURARUM,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 593 1474 1651 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 593 1474 1651 1526">
+     <span class='ocr_line' id='line_1_4' title="bbox 593 1474 1651 1526; baseline 0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 593 1476 782 1524; x_wconf 93' lang='lat' dir='ltr'><strong>APUD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 816 1474 1166 1524; x_wconf 90' lang='lat' dir='ltr'><strong>ROMANOS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1198 1476 1292 1524; x_wconf 90' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1326 1477 1651 1526; x_wconf 85' lang='lat' dir='ltr'><strong>GRAECOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 770 1702 1484 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 770 1702 1484 1755">
+     <span class='ocr_line' id='line_1_5' title="bbox 770 1702 1484 1755; baseline 0 -9"><span class='ocrx_word' id='word_1_10' title='bbox 770 1705 804 1745; x_wconf 88' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_11' title='bbox 813 1716 1009 1746; x_wconf 66' lang='lat' dir='ltr'>nnnnnn</span> <span class='ocrx_word' id='word_1_12' title='bbox 1041 1703 1088 1743; x_wconf 81' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1124 1702 1484 1755; x_wconf 85' lang='lat' dir='ltr'>LETRONNE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 898 1821 1353 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 898 1821 1353 1854">
+     <span class='ocr_line' id='line_1_6' title="bbox 898 1821 1353 1854; baseline 0.002 -2"><span class='ocrx_word' id='word_1_14' title='bbox 898 1824 926 1852; x_wconf 76' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_15' title='bbox 929 1821 1191 1853; x_wconf 71' lang='lat' dir='ltr'>CCCCCCCCCC</span> <span class='ocrx_word' id='word_1_16' title='bbox 1218 1824 1353 1854; x_wconf 71' lang='lat' dir='ltr'><strong>socio.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
